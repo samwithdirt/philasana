@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://philasana.vercel.app/sitemap.xml
